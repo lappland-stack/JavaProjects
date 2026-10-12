@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PlaylistGUI
+comment1.params=manager
+comment1.target=PlaylistGUI(PlaylistManager)
+comment2.params=
+comment2.target=void\ buildUI()
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

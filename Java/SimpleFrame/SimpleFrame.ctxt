@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SimpleFrame
+comment0.text=\n\ This\ program\ displays\ an\ empty\ frame.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ The\ main\ launcher\ method\n
+comment2.params=
+comment2.target=void\ createGUI()
+comment2.text=\n\ This\ method\ sets\ up\ the\ graphical\ user\ interface.\n
+numComments=3

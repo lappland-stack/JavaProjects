@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Marks
+comment0.text=\ \n\ This\ program\ reads\ a\ student's\ marks\ into\ an\ array,\ \ \n\ discards\ the\ lowest\ mark,\ adds\ up\ the\ remaining\ marks\ \n\ and\ displays\ the\ average.\ \n\ It\ is\ an\ exercise\ in\ a\ top-down\ structured\ development\ \n\ of\ the\ methods\ in\ a\ program.\ \n\ Hours\ wasted\:\ 11\n\ Headaches\:\ about\ 4\n\ Migraines\:\ 0\ (for\ now)\ -\ 9\:40\ 13/02\ |\ make\ that\ 1\ migraine\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ \n\ The\ launch\ method\ \n\ \n\ @param\ \ args\ \ \ Command\ line\ parameters\ -\ not\ used\ \n
+comment2.params=marks
+comment2.target=void\ readMarks(int[])
+comment2.text=\ \n\ Repeatedly\ read\ integers\ from\ the\ user,\ \ \n\ to\ fill\ all\ elements\ of\ the\ given\ marks\ array\ \n\ @param\ marks\ \ \ \ An\ array\ of\ marks\ to\ be\ filled\ up\ \n
+comment3.params=marks
+comment3.target=void\ discardLowestMark(int[])
+comment4.params=marks
+comment4.target=int\ findLowestMark(int[])
+comment5.params=position\ marks
+comment5.target=void\ removeMark(int,\ int[])
+comment6.params=marks
+comment6.target=int\ averageTheMarksExceptTheLastOne(int[])
+comment7.params=prompt
+comment7.target=int\ readInteger(java.lang.String)
+comment7.text=\ \n\ A\ standard\ method\:\ \n\ \n\ Display\ the\ prompt\ and\ then\ read\ lines\ repeatedly\ \n\ until\ a\ valid\ integer\ is\ found,\ and\ return\ it.\ \n\ \n\ @param\ prompt\ \ \ The\ prompt\ to\ be\ displayed\ \n\ @result\ \ \ \ \ \ \ \ \ A\ valid\ integer\ \n
+numComments=8

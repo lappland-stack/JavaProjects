@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ This\ program\ is\ supposed\ to\ show\ details\ about\ a\ car\n\ @version\ 0.1\n\ Hours\ wasted\ \=\ 23\n\ headaches\ \=\ 9\n\ migraines\ \=\ 4\n\ lowkey\ feels\ oddly\ overcomplicated\ for\ something\ that\ should\ be\ fairly\ \n\ simple\ but\ i\ may\ be\ wrong\n
+comment1.params=
+comment1.target=java.lang.String\ getBrand()
+comment10.params=
+comment10.target=void\ displayCarInfo()
+comment11.params=
+comment11.target=void\ start()
+comment12.params=
+comment12.target=void\ accelerate()
+comment13.params=
+comment13.target=void\ brake()
+comment2.params=
+comment2.target=java.lang.String\ getModel()
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=
+comment4.target=double\ getSpeed()
+comment5.params=newBrand\ newModel\ newYear\ newSpeed
+comment5.target=Car(java.lang.String,\ java.lang.String,\ int,\ double)
+comment6.params=B
+comment6.target=void\ setBrand(java.lang.String)
+comment7.params=M
+comment7.target=void\ setModel(java.lang.String)
+comment8.params=Y
+comment8.target=void\ setYear(int)
+comment9.params=S
+comment9.target=void\ setSpeed(double)
+numComments=14

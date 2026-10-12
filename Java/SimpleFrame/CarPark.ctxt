@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CarPark
+comment0.text=\n\ This\ programs\ counts\ the\ cars\ entering\ and\ leaving\ a\ car\ park,\ always\ displaying\n\ the\ current\ number\ of\ cars\ in\ the\ car\ park.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ The\ main\ launch\ method\n
+comment2.params=
+comment2.target=void\ createGUI()
+comment2.text=\n\ Helper\ method\ to\ build\ up\ the\ GUI\n
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\n\ React\ to\ a\ GUI\ button\ press\ by\ adjusting\ the\ car\ counter\ correctly,\n\ and\ then\ updating\ the\ counter\ display\n
+numComments=4

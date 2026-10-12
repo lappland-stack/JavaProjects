@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Recusion
+comment1.params=n
+comment1.target=int\ factorialFor(int)
+comment2.params=n
+comment2.target=int\ factorialWhile(int)
+comment3.params=n
+comment3.target=int\ factorialRecursive(int)
+comment4.params=n
+comment4.target=int\ factorialRecursiveDebug(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ im\ writing\ this\ at\ 11\ pm,\ which\ doesnt\ sound\ too\ bad,\ however\ i\ have\ been\ up\ since\ 5\ am,\ meaning\ i\ have\n\ been\ awake\ for\ 18\ hours,\ unlike\ my\ record\ of\ 144\ hours,\ i\ dont\ wanna\ do\ that\ shit\ again,\ imma\ finish\ all\n\ this\ sniz\ and\ fucken\ go\ to\ sleep\ man\n
+numComments=6

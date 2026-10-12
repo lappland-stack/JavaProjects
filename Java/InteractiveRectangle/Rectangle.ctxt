@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ This\ here\ code\ is\ aimed\ to\ allow\ the\ calculation\ of\ the\ area\ and\ \n\ perimiter\ of\ a\ rectangle,\ even\ if\ in\ \n\ hindsigth\ it\ would\ be\ easier\ to\ just\ grab\ pen\ and\ paper\ \n\ and\ actually\ calculate\ it\ yourself\n\n\ @author\ (Why\ do\ you\ wanna\ know?)\n\ @version\ (1.0-there\ will\ be\ no\ further\ updates\ or\ any\ kind\ of\ support)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=height\ width
+comment2.target=int\ area(int,\ int)
+comment3.params=height\ width
+comment3.target=int\ perimeter(int,\ int)
+comment3.text=\n\ Apparently\ you\ want\ me\ to\ comment\n\ \n\ Returns\ the\ area\ of\ a\ rectangle\n\ \n\ @param\ height\ the\ height\ of\ the\ rectangle\n\ \n\ @param\ width\ the\ width\ of\ the\ rectangle\n
+comment4.params=height\ width
+comment4.target=void\ printRectangleDetails(int,\ int)
+comment4.text=\n\ heres\ the\ other\ comment\n\ \n\ Returns\ the\ perimieter\ of\ a\ rectangle\n\ \n\ @param\ height\ the\ height\ of\ the\ rectangle\n\ \n\ @param\ width\ the\ width\ of\ a\ rectangle\n\ \n\ i\ just\ realised\ this\ sounds\ like\ chatgpt\ wrote\ it,\ i\ swear\ to\ whatever\ is\ holy\ this\ is\ all\ \n\ human\ written\ \uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D\n
+numComments=5

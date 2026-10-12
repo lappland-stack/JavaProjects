@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Averages
+comment0.text=\n\ \ A\ debugging\ exercise\n\n\ \ This\ application\ holds\ a\ collection\ of\ integer\ values\ in\ an\ array.\n\ \ Values\ can\ be\ added\ to\ the\ end\ of\ the\ collection\ by\ entering\ them\ into\n\ \ a\ text\ field\ and\ pressing\ Enter.\n\ \ The\ current\ list\ is\ always\ displayed\ in\ a\ text\ area,\ together\ with\n\ \ the\ average\ of\ those\ values\ in\ the\ collection\ that\ fall\ in\ the\ range\n\ \ 10\ -\ 20\ inclusive.\n\n\ \ Note\:\ This\ is\ a\ debugging\ exercise,\ so\ the\ code\ below\ contains\ bugs,\n\ \ although\ it\ compiles\ perfectly\ well.\n\n\ \ Author\:\ SBJ\n\ \ \n\ \ dawg\ whos\ SBJ\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ The\ main\ launcher\ method\n\ @param\ args\ Unused\n
+comment2.params=
+comment2.target=void\ createGUI()
+comment2.text=\n\ Helper\ method\ to\ build\ the\ GUI\n
+comment3.params=
+comment3.target=void\ setUpData()
+comment3.text=\n\ Helper\ method\ to\ set\ up\ the\ array\ data,\ and\ the\ associated\ variable\ top\n\ with\ their\ initial\ configuration.\n
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ actionPerformed\ method\ for\ adding\ a\ new\ data\ item\ to\ the\ record\ when\ Enter\ is\ pressed,\n\ calculating\ the\ new\ average\ of\ values\ in\ the\ range\ 10\ -\ 20\ inclusive,\n\ and\ updating\ the\ display\ with\ the\ data\ and\ the\ average.\n
+comment5.params=
+comment5.target=void\ doDisplay()
+comment5.text=\n\ Redisplay\ the\ data\ list\ on-screen,\ calculate\ average\ and\ display\ it.\n
+numComments=6

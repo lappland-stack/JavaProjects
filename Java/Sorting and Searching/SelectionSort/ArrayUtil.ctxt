@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayUtil
+comment0.text=\n\ This\ class\ contains\ utility\ methods\ for\ array\ manipulation.\n
+comment1.params=length\ n
+comment1.target=int[]\ randomIntArray(int,\ int)
+comment1.text=\n\ Creates\ an\ array\ filled\ with\ random\ values.\n\ @param\ length\ the\ length\ of\ the\ array\n\ @param\ n\ the\ number\ of\ possible\ random\ values\n\ @return\ an\ array\ filled\ with\ length\ numbers\ between\n\ 0\ and\ n\ -\ 1\n
+comment2.params=a\ i\ j
+comment2.target=void\ swap(int[],\ int,\ int)
+comment2.text=\n\ Swaps\ two\ entries\ of\ an\ array.\n\ @param\ a\ the\ array\n\ @param\ i\ the\ first\ position\ to\ swap\n\ @param\ j\ the\ second\ position\ to\ swap\n
+comment3.params=a\ from
+comment3.target=int\ minimumPosition(int[],\ int)
+comment3.text=\n\ Finds\ the\ smallest\ element\ in\ a\ tail\ range\ of\ the\ array.\n\ @param\ a\ the\ array\ to\ search\n\ @param\ from\ the\ first\ position\ in\ a\ to\ compare\n\ @return\ the\ position\ of\ the\ smallest\ element\ in\ the\n\ range\ a[from]\ .\ .\ .\ a[a.length\ -\ 1]\n
+numComments=4
